@@ -24,6 +24,7 @@
 ```bash
 pip install -r requirements.txt
 jupyter notebook Notebooks/Credit_report.ipynb
+
 Что вошло в дашборд?
 
     Карточки метрик:
